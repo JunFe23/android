@@ -4,4 +4,4 @@
 - https://www.youtube.com/watch?v=YMLOHpL1rDc&t=632s 강의 참조.
 
 ## 구현 화면
-![image](https://user-images.githubusercontent.com/75111342/130327293-692fb0f4-db03-4410-bf59-47230967b7a4.png)
+![Aug-22-2021 00-40-21](https://user-images.githubusercontent.com/75111342/130327407-dc7bb440-51cb-46ab-a1c5-bc85a2b28ea2.gif)
